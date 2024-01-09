@@ -1,0 +1,4 @@
+#include"head.h"
+
+int n;//×Ö·û¼¯ÊýÄ¿
+vector<node> TreeNodeArray;
